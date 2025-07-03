@@ -2,7 +2,13 @@
 
 1. First, download the latest release [here](https://github.com/Veldermon-rbg/dragon/releases/)
 
+2. Extract <ins>Release.zip</ins>
 
+
+  ![image](https://github.com/user-attachments/assets/7d006f5f-60da-4446-9c36-077312d644cc)
+
+
+3. Copy the 'Dragon' folder to your C: drive's root folder.
 
 
 
