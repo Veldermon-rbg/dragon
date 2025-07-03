@@ -1,6 +1,6 @@
 # Initial Setup
 
-1. First, download the latest release at 
+1. First, download the latest release [here](https://github.com/Veldermon-rbg/dragon/releases/tag/1.0)
 
 
 
