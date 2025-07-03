@@ -11,6 +11,17 @@
 3. Move the 'Dragon' folder to your C: drive's root folder.
 (There should now be a folder at C:\dragon with 2 files in it)
 
+4. Run Dragon.exe
+
+5. Press either:
+Ctrl + Alt + D
+
+or
+
+Right Arrow, Down Arrow, Right Arrow + Down Arrow, A
+
+to trigger a dragon.
+
 
 
 # Running On Startup
