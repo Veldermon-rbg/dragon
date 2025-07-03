@@ -9,7 +9,7 @@
 
 
 3. Move the 'Dragon' folder to your C: drive's root folder.
-(There should now be a folder at `C:\dragon)
+(There should now be a folder at C:\dragon with 2 files in it)
 
 
 
